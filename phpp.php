@@ -1,5 +1,5 @@
 <?php
 
-ls -la
+ls
 
 ?>
